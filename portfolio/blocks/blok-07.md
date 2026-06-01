@@ -1,18 +1,14 @@
-# Blok 7 – Střih videa (DaVinci Resolve)
+# Blok 7 – Střih videa (iMovie)
 
 ## Cíl
 
-Chtěl jsem natočit a sestříhat krátké video dokumentující jeden den ve škole – od příchodu ráno přes hodiny až po odchod. Video mělo mít dokumentární charakter bez komentáře, jen s hudbou a občasným titulkem.
+CHtěla jsem se naučit to jak se stříhají videa a také natáčet své vlastní videa.
 
 ---
 
 ## Postup
 
-Natáčel jsem telefonem po dobu dvou dnů (první den nevyšlo osvětlení v učebně). Záběry jsem importoval do DaVinci Resolve, rozdělil do Binů podle části dne a pak sestavoval timeline v Edit page.
-
-Střih jsem dělal na rytmus hudby – nejdřív jsem si označil beaty v audio stopě a pak záběry ořezával tak, aby střihy padaly přibližně na přechody. Zvuk z natáčení jsem ztlumil (školní hluk), ponechal jen pár záběrů se srozumitelným dialogem, kde jsem přidat Noise Reduction ve Fairlight page.
-
-Titulky jsem přidal jako Text+ v Edit page – název lokace vždy na začátku nové části dne.
+Nejdříve jsem si natočila 2-3 videa ať mám obsah natočený dopředu. Postupně jsem sestříhala všechny videa, přidala jsem do videa přechody a efekty. Naposled jsem si stáhla sestříhané video a vložila do canvy. V canvě jsem si nechala vygenerovat titulky k videím kde mluvím.
 
 ---
 
@@ -26,9 +22,7 @@ Titulky jsem přidal jako Text+ v Edit page – název lokace vždy na začátku
 
 ---
 
-## Reflexe
 
-Video se mi líbí – rytmický střih s hudbou dává energii i nudným záběrům z chodby. Nejtěžší bylo natáčení: naučil jsem se, že protisvětlo (okno za objektem) záběr zničí. Druhý den jsem záměrně chodil natáčet do prostor, kde bylo světlo z boku nebo zepředu. Zvuk byl problém – školní prostředí je hlučné. Příště bych zvážil klopový mikrofon pro záběry s konkrétními osobami. DaVinci Resolve byl zpočátku matoucí (hodně stránek a panelů), ale jakmile jsem pochopil základní flow Media → Edit → Deliver, šlo to rychle.
 
 ---
 
