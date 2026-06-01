@@ -2,15 +2,7 @@
 
 ## Co jsem se naučil
 
-Pochopil jsem, že střih videa není jen „dávání záběrů za sebou" – výběr, délka a pořadí záběrů vytváří emoce a vyprávění. Naučil jsem se, že zvuk je stejně důležitý jako obraz, a že špatný zvuk diváka odradí rychleji než špatný záběr.
-
----
-
-## Jak funguje video
-
-Video je sekvence statických snímků (frames) přehrávaných dostatečně rychle – mozek je vnímá jako plynulý pohyb. Standardní frekvence je 25 fps (evropský broadcast standard PAL). Každý snímek je obrázek v určitém rozlišení.
-
-Výsledný soubor je komprimován kodekem – algoritmem, který odstraní redundantní informace. H.264 (MP4) je nejpoužívanější – dobrý poměr kvality a velikosti souboru.
+Naučila jsem se základy střihu videa a přidávání přechodů, efektů a titulků do videí
 
 ---
 
@@ -33,17 +25,6 @@ Důležité: timeline je nedestruktivní – originální soubory zůstávají n
 Střih není náhodný. Záběry střídám tak, aby udržely tempo a zájem diváka. Při rytmickém střihu na hudbu markiruji beaty v audio stopě a střihy záměrně pokládám na přechody. Výsledek působí dynamicky i bez složitých efektů.
 
 Základní pravidlo: záběr drží divákovi pozornost přibližně 3–7 sekund. Kratší = dynamické, rychlé. Delší = klidné, meditativní – ale hrozí ztráta pozornosti.
-
----
-
-## Zvuk
-
-Zvuk v post-produkci má dvě vrstvy:
-
-- **Diegetický zvuk** – zvuk ze scény (hlasy, kroky, okolí). Upravuji hlasitost tak, aby byl přirozený, ne příliš hlasitý.
-- **Nediegetický zvuk** – přidaná hudba nebo komentář. Hudbě typicky snížím hlasitost na −20 dB, aby nepřekrývala dialogy.
-
-Noise Reduction ve Fairlight odstraní konstantní šum (bzučení, šum klimatizace) – funguje tak, že analyzuji tiché místo záznamu jako „profil šumu" a pak ho odečtu od celé stopy.
 
 ---
 
