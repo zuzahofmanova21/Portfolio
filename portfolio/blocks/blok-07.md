@@ -14,26 +14,10 @@ Nejdříve jsem si natočila 2-3 videa ať mám obsah natočený dopředu. Postu
 
 ## Výstupy
 
-- Exportovaný soubor `skola_den.mp4` (H.264, 1920×1080, 25 fps)
-- Délka videa: 3 minuty 12 sekund
-- Ukázka timeline:
-
-![Timeline v DaVinci Resolve](../assets/images/blok7_timeline.png)
-
----
-
-
-
----
-
-## Teoretické pozadí (stručně)
-
-Video je sekvence snímků přehrávaných rychlostí 25 fps – mozek vnímá plynulý pohyb. Střih je výběr a řazení záběrů do výsledného vyprávění. DaVinci Resolve pracuje s timeline, kde na stopách leží videoklipy a zvukové záznamy. Export generuje výsledný soubor komprimovaný kodekem H.264. Podrobnosti v `teorie.md`.
 
 ---
 
 ## Zdroje
 
-- [https://www.blackmagicdesign.com/products/davinciresolve/training](https://www.blackmagicdesign.com/products/davinciresolve/training) – oficiální výukové materiály
-- [https://www.youtube.com/@CaseyFaris](https://www.youtube.com/@CaseyFaris) – Casey Faris, přehledné tutoriály DaVinci
-- [https://freemusicarchive.org/](https://freemusicarchive.org/) – hudba pod CC licencí použitá ve videu
+- https://www.youtube.com/watch?v=Q7lDjO4-u3o
+- https://www.youtube.com/watch?v=CZFDYEdA-tc
