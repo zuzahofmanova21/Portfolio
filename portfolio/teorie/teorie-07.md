@@ -9,7 +9,9 @@ Naučila jsem se základy střihu videa a přidávání přechodů, efektů a ti
 ## Slovník
 
  -Overaly- vrstva obrazu umístěna nad hlavním videem 
+
 -Titulek- text ve videu 
+
 -Transition ( přechod ) - efekt mezi dvěma záběry 
 -Jump cut - rychlý střih mezi dvěma podobnými záběry 
 -Montáž - celkově sestavení videa z jednotlivých záběru 
