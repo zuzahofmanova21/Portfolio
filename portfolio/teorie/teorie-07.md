@@ -36,6 +36,7 @@ Naučila jsem se základy střihu videa a přidávání přechodů, efektů a ti
 
 -Renderovani - proces při kterém se projekt převede do finálního video souboru 
 
+
 Přechody 
 
 -Prolínačka - jeden záběr se postupně rozpouští do druhého 
